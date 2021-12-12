@@ -1,0 +1,19 @@
+{
+	"name": "Red-White Space Cat",
+	"symbol": "",
+	"image": "1_space_cat.png",
+	"properties": {
+	  "files": [
+		{
+		  "uri": "1_space_cat.png",
+		  "type": "image/png"
+		}
+	  ],
+	  "creators": [
+		{
+		  "address": "GkrLdZjzoQr4khxvqDqiT4zHdwnZajXx2GS5Nm6j9i7H",
+		  "share": 100
+		}
+	  ]
+	}
+  }
